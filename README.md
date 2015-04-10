@@ -1,44 +1,34 @@
 Arduino
 ========
 
-* Arduino is an open-source physical computing platform based on a simple i/o
-board and a development environment that implements the Processing/Wiring
-language. Arduino can be used to develop stand-alone interactive objects or
-can be connected to software on your computer (e.g. Flash, Processing, MaxMSP).
-The boards can be assembled by hand or purchased preassembled; the open-source
-IDE can be downloaded for free.
+* Arduino is an open-source tool used for building electronics projects. Arduino consists of a physical programmable circuit board (often referred to as a micro-controller) and a development environment, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the board
 
-* For more information, see the website at: http://www.arduino.cc/
-or the forums at: http://arduino.cc/forum/
+* For more information, please consult the website at: http://www.arduino.org/
 
-* To report a *bug* in the software or to request *a simple enhancement* go to:
-http://github.com/arduino/Arduino/issues
+* To report a *bug* in the software or to request *a simple enhancement*, please go to:
+http://github.com/arduino-org/Arduino/issues
 
-* More complex requests and technical discussion should go on the Arduino Developers
-mailing list:
-https://groups.google.com/a/arduino.cc/forum/#!forum/developers
+If you're interested in modifying or extending the [Arduino.org](http://arduino.org) software, we would be very happy if you did it! If you want to integrate your work into the official release please create a pull request at : https://github.com/arduino-org/Arduino/compare/
 
-* If you're interested in modifying or extending the Arduino software, we strongly 
-suggest discussing your ideas on the Developers mailing list *before* starting
-to work on them. That way you can coordinate with the Arduino Team and others,
-giving your work a higher chance of being integrated into the official release
-https://groups.google.com/a/arduino.cc/forum/#!forum/developers
+If you're interested in collaborating please contact us!
 
 Installation
 ------------
-Detailed instructions are in reference/Guide_Windows.html and
-reference/Guide_MacOSX.html.  For Linux, see the Arduino playground:
-http://www.arduino.cc/playground/Learning/Linux
+Ready-to-run software and instructions are available on : http://www.arduino.org/downloads
+
+[Arduino.org](http://arduino.org) IDE is at this time developed, maintained and supported by the Arduino.org team: [support@arduino.org](mailto:support@arduino.org)
 
 Credits
 --------
-Arduino is an open source project, supported by many.
+[Arduino.org](http://arduino.org) is an open source project, developed by many and based on:
 
-The Arduino team is composed of Massimo Banzi, David Cuartielles, Tom Igoe,
-Gianluca Martino, Daniela Antonietti, and David A. Mellis.
+* The Arduino.cc IDE: http://www.arduino.cc/ 
+* The Wiring project: http://www.wiring.org.co/
+* The Processing project: http://processing.org
+
+A special thanks to  Daniela Antonietti, Hernando Barragán, David Cuartielles, Ben Fry, Tom Igoe, Gianluca Martino, David A. Mellis, Massimo Banzi and Casey Reas for their works and inspirations.
 
 Arduino uses the [GNU avr-gcc toolchain](http://gcc.gnu.org/wiki/avr-gcc), [avrdude](http://www.nongnu.org/avrdude/), [avr-libc](http://www.nongnu.org/avr-libc/), and code from
 [Processing](http://www.processing.org) and [Wiring](http://wiring.org.co).
 
 Icon and about image designed by [ToDo](http://www.todo.to.it/)
-
