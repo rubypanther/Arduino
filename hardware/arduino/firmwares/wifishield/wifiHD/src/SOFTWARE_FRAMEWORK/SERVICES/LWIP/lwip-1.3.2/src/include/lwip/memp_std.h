@@ -1,4 +1,4 @@
-/* This header file is part of the ATMEL AVR-UC3-SoftwareFramework-1.7.0 Release */
+/* This header file is part of the ATMEL AVR-UC3-SoftwareFramework-1.8.3 Release */
 
 /*
  * SETUP: Make sure we define everything we will need.

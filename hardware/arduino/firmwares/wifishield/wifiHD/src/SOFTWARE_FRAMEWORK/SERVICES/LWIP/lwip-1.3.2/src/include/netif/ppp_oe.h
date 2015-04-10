@@ -1,4 +1,4 @@
-/* This header file is part of the ATMEL AVR-UC3-SoftwareFramework-1.7.0 Release */
+/* This header file is part of the ATMEL AVR-UC3-SoftwareFramework-1.8.3 Release */
 
 /*****************************************************************************
 * ppp_oe.h - PPP Over Ethernet implementation for lwIP.

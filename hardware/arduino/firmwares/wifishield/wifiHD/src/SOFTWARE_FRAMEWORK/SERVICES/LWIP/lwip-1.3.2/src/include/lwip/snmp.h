@@ -1,4 +1,4 @@
-/* This header file is part of the ATMEL AVR-UC3-SoftwareFramework-1.7.0 Release */
+/* This header file is part of the ATMEL AVR-UC3-SoftwareFramework-1.8.3 Release */
 
 /*
  * Copyright (c) 2001, 2002 Leon Woestenberg <leon.woestenberg@axon.tv>

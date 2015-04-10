@@ -1,4 +1,4 @@
-/* This source file is part of the ATMEL AVR-UC3-SoftwareFramework-1.7.0 Release */
+/* This source file is part of the ATMEL AVR-UC3-SoftwareFramework-1.8.3 Release */
 
 /* This source file is part of the ATMEL AVR32-SoftwareFramework-AT32UC3A-1.4.0 Release */
 
